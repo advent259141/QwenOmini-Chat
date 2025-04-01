@@ -1,3 +1,11 @@
+</div>
+
+<div align="center">
+
+![:name](https://count.getloli.com/@QwenOmini_Chat?name=QwenOmini_Chat&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+</div>
+
 # Qwen Omni 聊天助手
 
 ![Qwen Omni](https://img.shields.io/badge/AI-Qwen%20Omni-blue)
