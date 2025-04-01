@@ -25,7 +25,7 @@
 ## ⚙️ 系统要求
 
 - Python 3.8 或更高版本
-- Windows 系统或 Ubuntu 系统
+- Windows 系统
 - 互联网连接（用于API调用）
 - DashScope API密钥（可从阿里云获取）
 
@@ -52,19 +52,11 @@
      ```bash
      .venv\Scripts\activate.bat
      ```
-   - Ubuntu:
-     ```bash
-     source .venv/bin/activate
-     ```
 
 4. **安装依赖**：
    - Windows:
      ```bash
      pip install -r requirements.txt
-     ```
-   - Ubuntu:
-     ```bash
-     pip install -r requirements_ubuntu.txt
      ```
 
 ## 🎮 使用方法
